@@ -15,6 +15,7 @@ Dieses Handbuch erklärt Schritt für Schritt, wie das USB Backup Tool verwendet
 7. [Portable EXE erstellen](#7-portable-exe-erstellen)
 8. [Fehlerbehebung](#8-fehlerbehebung)
 9. [Häufige Fragen (FAQ)](#9-häufige-fragen-faq)
+10. [Ansprechpartner](#10-ansprechpartner)
 
 ---
 
@@ -431,3 +432,9 @@ Windows Task Schedulers benötigt einmalig erhöhte Rechte.
 Bereits vollständig kopierte Dateien bleiben auf dem Stick.
 Eine halb kopierte Datei kann beschädigt sein – beim nächsten Backup
 wird sie als „geändert" erkannt und erneut kopiert.
+
+## 10. Ansprechpartner
+
+### An wen kann ich mich bei Problemen oder Fragen wenden?
+
+Treten Fragen oder Probleme auf. Am besten hier eine kurze Info hinterlassen.
